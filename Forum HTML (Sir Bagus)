@@ -1,0 +1,22 @@
+<html>
+<body>
+
+<h1><center>My Resume</center></h1>
+<Img src="Image.jpg" alt="image" width="120" height="190">
+<h2>Name <span style="margin-left:155px;"></span>:Tirza Gabriella <br/><h2>
+<h2>Place/Date Of Birth <span style="margin-left:10px;"></span>: Jakarta, 20 Maret 2004<br/><h2>
+<h2>Email <span style="margin-left:155px;"></span>: tirzagabriella20@gmail.com<br/><h2>
+<h2>Phone Number <span style="margin-left:60px;"></span>: 087787356239<br/><h2>
+<h2></h2>
+<hr>
+<h2>Experience <span style="margin-left:100px;"></span>:</h2>
+<ul>
+    <li><h2>Leader of teenager community in church</h2></li>
+    <li><h2>Become a school cup event organizer</h2></li>
+    <li><h2>Take part to serve in music at church</h2></li>
+</ul>
+<hr>
+<a href="Forum HTML (Sir Bagus) page 2">Next Page</a>
+
+</body>
+</html>

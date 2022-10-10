@@ -1,0 +1,13 @@
+<style>
+         table, th, td{
+            border:2px solid black;
+        }
+        </style>
+<h1><b><i><center>Links</center></i></b></h1>
+<table style="width:100%">
+        <tr>
+            <th><b><a href="https://instagram.com/tirza.gabriella?igshid=YmMyMTA2M2Y=">Instagram</b></a></th>
+        </tr>
+    </table>
+<hr>
+    <a href="Forum HTML (Sir Bagus)">Back Page</a>
